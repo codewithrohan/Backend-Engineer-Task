@@ -60,3 +60,4 @@ A robust Task Manager API built with Express.js and MongoDB, offering comprehens
 
 1. Register and log in to receive a JWT Auth Token.
 2. Use the token for authenticated requests to the tasks and subtasks endpoints.
+3. Check Postman Testing folders to see all the apis testing 
